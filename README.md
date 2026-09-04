@@ -1,16 +1,33 @@
-## Hi there 👋
+# David Gomez
 
-<!--
-**alejo21ny/alejo21ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Developer & AI Automation Specialist**
+Cloud · APIs · AI Agents · Data · Platform Automation
 
-Here are some ideas to get you started:
+I build production software, cloud platforms, API integrations, and AI-assisted automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Engineering
+React · TypeScript / JavaScript · PHP / Laravel · Symfony · Node.js · REST APIs
+
+### AI & Automation
+LLM APIs · AI-assisted workflows · conversational assistants · tool/function patterns · provider abstractions · workflow automation
+
+### Cloud & Platform
+AWS · Azure · Cloudflare · Docker · Terraform · CI/CD · GitHub Actions
+
+### APIs & Integrations
+Third-party API integration · webhooks · idempotent sync design · retry/backoff resilience
+
+### Data Engineering
+PostgreSQL · MySQL · SQL · Azure Data Factory · ADLS · Databricks · PySpark
+
+---
+
+### Featured work
+
+**[Smart Library](https://github.com/alejo21ny/smart-library-challenge)** — Production full-stack library management system: role-based access, an event-driven audit trail, and a grounded natural-language assistant that never invents a book. Laravel · React · TypeScript · PostgreSQL · Docker. [Live demo](https://smart-library-zsh8.onrender.com)
+
+**[HubSpot Portal Sync](https://github.com/alejo21ny/hubspot-portal-sync-assessment)** — Idempotent portal-to-portal sync service: duplicate detection, retry/backoff on 429/5xx, structured error handling, 42 offline tests. Node.js · HubSpot API
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/dgomezbuiles) · [GitHub](https://github.com/alejo21ny)
